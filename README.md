@@ -2,7 +2,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
-## the[ hm](https://github.com/cfgmum22/team-26/blob/hm/README.md) branch is the main branch
 #                                           Gujarat University Startup and Enterpreneurship Council(GUSEC)
 
 ### PROBLEM STATEMENT
